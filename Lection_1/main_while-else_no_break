@@ -19,4 +19,6 @@ while flag:
         flag = False
     i += 1
 
-    print(flag)
+    # Вывод показывает в какой момент цикл прервался, 
+    # из-за того, что значение flag сменилось на false
+    print(flag) 
