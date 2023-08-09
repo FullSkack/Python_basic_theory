@@ -4,3 +4,15 @@
 for i in 1, -2, 3, 14, 5:
     print(i)
 
+
+# Так же цикл for можно использовать со строками
+
+for i in 'qwerty':
+    print(i)
+
+# q
+# w
+# e
+# r
+# t
+# y
